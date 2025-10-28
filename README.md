@@ -40,7 +40,7 @@ Metodologias Ágeis: Scrum e Kanban
 ## 📜 Certificações
 - Fundamentos de TI: Hardware e Software – Fundação Bradesco  
 - Gestão de Projetos (PMBOK) – Fundação Bradesco  
-- MySQL e Banco de Dados – QAlizando / Descomplica  
+- MySQL e Banco de Dados – Fundação Bradesco  
 - Power BI e Excel Avançado – Fundação Bradesco  
 
 ---
