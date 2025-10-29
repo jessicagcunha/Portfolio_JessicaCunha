@@ -11,7 +11,7 @@ Este portfólio reúne exercícios e simulações criados para demonstrar, de fo
 Projeto prático criado para simular o levantamento e documentação de requisitos de um sistema de cadastro.  
 Inclui histórias de usuário, tarefas, bugs e requisitos não funcionais organizados em um quadro Kanban no Jira.  
 > **Ferramentas:** Jira, Excel  
-> **Entregas:** [PDF com simulação do projeto](#)
+> **Entregas:** [PDF com simulação do projeto](01_Analise_de_Negocios/Projeto1_Simulacao_Cadastro_Cliente_JessicaCunha.pdf)
 
 ---
 
