@@ -19,7 +19,7 @@ Inclui histórias de usuário, tarefas, bugs e requisitos não funcionais organi
 Documento com casos de teste manuais baseados nos requisitos do projeto anterior.  
 Inclui cenários de validação, critérios de aceite e status dos testes executados.  
 > **Ferramentas:** Excel  
-> **Entregas:** [Plano de Testes PDF](#)
+> **Entregas:** [Plano de Testes PDF](https://github.com/jessicagcunha/Portfolio_JessicaCunha/tree/main/02_Plano_de_Testes_Cadastro_Cliente)
 
 ---
 
