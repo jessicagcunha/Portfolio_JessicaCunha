@@ -40,7 +40,7 @@ Demonstrar a capacidade de documentar e organizar testes de software de forma cl
 
 ## 📎 **Acessos**
 📄 **Download do documento PDF:**  
-[`Plano_de_Testes_Cadastro_Cliente_JessicaCunha.pdf`](./Plano_de_Testes_Cadastro_Cliente_JessicaCunha.pdf)  
+[`Plano_de_Testes_Cadastro_Cliente_JessicaCunha.pdf`](https://github.com/jessicagcunha/Portfolio_JessicaCunha/blob/main/02_Plano_de_Testes_Cadastro_Cliente/Plano_de_Testes_Cadastro_Cliente_JessicaCunha.pdf)  
 
 📄 **Download do arquivo Excel:**  
 [`Plano_de_Testes_Cadastro_Cliente_JessicaCunha.xlsx`](https://github.com/jessicagcunha/Portfolio_JessicaCunha/blob/main/02_Plano_de_Testes_Cadastro_Cliente/Plano_de_Testes_Cadastro_Cliente_JessicaCunha.xlsx)  
@@ -49,7 +49,28 @@ Demonstrar a capacidade de documentar e organizar testes de software de forma cl
 [🔗 Abrir planilha no navegador](https://docs.google.com/spreadsheets/d/1-IVDqD1cFxVYu6bKAxstM7IdlP8L9LnRpg0uY41b_BE/edit?usp=sharing)  
 
 🪲 **Bug registrado no Jira (simulação):**  
-*(em breve)* `BUG_TC05_EmailInvalido` – “Cadastro aceita e-mail sem @”  
+[`BUG_TC05_EmailInvalido – Cadastro aceita e-mail sem @`](#)  
+
+---
+
+## 🐞 **Detalhes do Bug**
+
+**Título:** Cadastro – sistema aceita e-mail inválido sem “@”  
+**ID:** `BUG_TC05_EmailInvalido`  
+**Tipo:** Bug  
+**Status:** Aberto  
+**Severidade:** Alta  
+
+**Passos para reproduzir:**  
+1️⃣ Abrir tela de cadastro.  
+2️⃣ Preencher o campo de e-mail com `ana@`.  
+3️⃣ Clicar em **Salvar**.  
+
+**Resultado atual:** Sistema permite salvar.  
+**Resultado esperado:** Bloqueio e mensagem “E-mail inválido.”  
+
+📎 **Evidência (print do Jira):**  
+[`BUG_TC05_EmailInvalido.png`](#)
 
 ---
 
