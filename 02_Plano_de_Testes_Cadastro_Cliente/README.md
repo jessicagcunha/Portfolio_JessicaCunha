@@ -49,7 +49,7 @@ Demonstrar a capacidade de documentar e organizar testes de software de forma cl
 [🔗 Abrir planilha no navegador](https://docs.google.com/spreadsheets/d/1-IVDqD1cFxVYu6bKAxstM7IdlP8L9LnRpg0uY41b_BE/edit?usp=sharing)  
 
 🪲 **Bug registrado no Jira (simulação):**  
-[`BUG_TC05_EmailInvalido – Cadastro aceita e-mail sem @`](#)  
+[`BUG_TC05_EmailInvalido – Cadastro aceita e-mail sem @`](https://github.com/jessicagcunha/Portfolio_JessicaCunha/blob/main/02_Plano_de_Testes_Cadastro_Cliente/BUG_TC05_EmailInvalido.pdf)  
 
 ---
 
@@ -69,8 +69,8 @@ Demonstrar a capacidade de documentar e organizar testes de software de forma cl
 **Resultado atual:** Sistema permite salvar.  
 **Resultado esperado:** Bloqueio e mensagem “E-mail inválido.”  
 
-📎 **Evidência (print do Jira):**  
-[`BUG_TC05_EmailInvalido.png`](#)
+📎 **Evidência (Jira):**  
+[`BUG_TC05_EmailInvalido.pdf`](https://github.com/jessicagcunha/Portfolio_JessicaCunha/blob/main/02_Plano_de_Testes_Cadastro_Cliente/BUG_TC05_EmailInvalido.pdf)
 
 ---
 
