@@ -39,11 +39,17 @@ Demonstrar a capacidade de documentar e organizar testes de software de forma cl
 ---
 
 ## 📎 **Acessos**
+📄 **Download do documento PDF:**  
+[`Plano_de_Testes_Cadastro_Cliente_JessicaCunha.pdf`](./Plano_de_Testes_Cadastro_Cliente_JessicaCunha.pdf)  
+
 📄 **Download do arquivo Excel:**  
 [`Plano_de_Testes_Cadastro_Cliente_JessicaCunha.xlsx`](https://github.com/jessicagcunha/Portfolio_JessicaCunha/blob/main/02_Plano_de_Testes_Cadastro_Cliente/Plano_de_Testes_Cadastro_Cliente_JessicaCunha.xlsx)  
 
 🌐 **Visualizar online no Google Sheets:**  
 [🔗 Abrir planilha no navegador](https://docs.google.com/spreadsheets/d/1-IVDqD1cFxVYu6bKAxstM7IdlP8L9LnRpg0uY41b_BE/edit?usp=sharing)  
+
+🪲 **Bug registrado no Jira (simulação):**  
+*(em breve)* `BUG_TC05_EmailInvalido` – “Cadastro aceita e-mail sem @”  
 
 ---
 
