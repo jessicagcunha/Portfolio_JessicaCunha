@@ -1,6 +1,6 @@
 # 💼 Portfólio – Jéssica Cunha
 
-Projetos de estudo desenvolvidos para aplicar na prática os conhecimentos adquiridos em **Análise de Negócios**, **QA**, **Projetos** e **Dados**.  
+Projetos de estudo desenvolvidos para aplicar na prática os conhecimentos adquiridos em **Análise de Negócios**, **QA** e **Projetos**.  
 Este portfólio reúne exercícios e simulações criados para demonstrar, de forma prática, como aplico os conceitos que venho aprendendo na área de Tecnologia.
 
 ---
