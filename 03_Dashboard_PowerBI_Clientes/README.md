@@ -69,14 +69,10 @@ O foco foi criar um painel simples, objetivo e fácil de entender.
 
 ```
 03_Dashboard_PowerBI_Clientes/
-├── dados/
-│   └── base_clientes_compras.xlsx
-├── dashboard/
-│   └── dashboard_clientes.pbix
-├── docs/
-│   └── Dashboard_Clientes_Projeto3.pdf
-├── imagens/
-│   └── dashboard_clientes_tela.png
+├── base_clientes_compras.xlsx
+├── dashboard_clientes.pbix
+├── Dashboard_Clientes_Projeto3.pdf
+├── dashboard_clientes_tela.png
 └── README.md
 ```
 
