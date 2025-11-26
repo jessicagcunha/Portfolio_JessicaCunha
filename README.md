@@ -1,7 +1,11 @@
 # 💼 Portfólio – Jéssica Cunha  
 
-Projetos de estudo desenvolvidos para aplicar, na prática, os conhecimentos adquiridos em **Administração, Negócios, Projetos e Processos**.  
-Este portfólio reúne exercícios e simulações que demonstram, de forma simples e objetiva, como venho aprimorando minha visão analítica, organizacional e de melhoria contínua.  
+Projetos de estudo desenvolvidos para aplicar, na prática, conhecimentos de 
+Administração, Análise de Negócios, Processos, Dados e apoio a Sistemas.
+
+Este portfólio reúne exercícios e simulações que demonstram, de forma simples e objetiva, 
+como venho aprimorando minha capacidade analítica, lógica, organização e entendimento de 
+processos e requisitos.
 
 ---
 
