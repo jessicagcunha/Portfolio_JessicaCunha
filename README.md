@@ -27,7 +27,7 @@ Inclui cenários de validação, critérios de aceite e controle de resultados e
 Dashboard criado no **Power BI** a partir de uma base de dados simulada em Excel.  
 Apresenta indicadores como volume de cadastros, desempenho por região e comparativo de resultados.   
 > **Ferramentas:** Power BI, Excel  
-> **Entregas:** [Dashboard Power BI PDF](#)
+> **Entregas:** [Dashboard Power BI PDF](https://github.com/jessicagcunha/Portfolio_JessicaCunha/tree/2b02640d5993280050d11f9d85d9eab09b5f02ae/03_Dashboard_PowerBI_Clientes)
 
 ---
 
